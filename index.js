@@ -6,4 +6,5 @@ object.key = value;
 return object
 
 var newObject = Object.assign({}, object)
+return newObject
 }
